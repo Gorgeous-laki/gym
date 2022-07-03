@@ -1,0 +1,26 @@
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/bootvue?serverTimezone=GMT%2b8&useUnicode=true&characterEncoding=utf8
+      username: root
+      password: 20001003
+
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: gym_
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+laki:
+  jwt:
+    secret: f4dff3338493838f33939fe33
+    expire: 604800
+    header: Authorization
+
+shiro-redis:
+  enabled: true
+  redis-manager:
+    host: 127.0.0.1:6379
+

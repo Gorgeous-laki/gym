@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64a014db-a78a-47d9-bb74-030f559b975c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Users\Laki\.m2\repository" />
+        <option name="userSettingsFile" value="D:\Users\Laki\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2B4PWnxxafe1TnBExJ7fLWAWLIy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/admin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaprofession\gymDemo\src\main\resources\static\admin" />
+      <recent name="D:\ideaprofession\gymDemo\src\main\resources\templates\common" />
+      <recent name="D:\ideaprofession\gymDemo\src\main\resources\templates" />
+      <recent name="D:\ideaprofession\gymDemo\src\main\resources" />
+      <recent name="D:\ideaprofession\gymDemo\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaprofession\gymDemo\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laki.gymdemo.utils.shiro" />
+      <recent name="com.laki.gymdemo.shiro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GymDemoApplication">
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.laki.gymdemo.common.Start" />
+      <module name="gymDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laki.gymdemo.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymDemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gymDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laki.gymdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.laki.gymdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.laki.gymdemo.GymDemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymDemoApplicationTests.testGetCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gymDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laki.gymdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.laki.gymdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.laki.gymdemo.GymDemoApplicationTests" />
+      <option name="METHOD_NAME" value="testGetCondition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymDemoApplicationTests.testGetCondition2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gymDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.laki.gymdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.laki.gymdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.laki.gymdemo.GymDemoApplicationTests" />
+      <option name="METHOD_NAME" value="testGetCondition2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GymDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="gymDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laki.gymdemo.GymDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GymDemoApplication" />
+        <item itemvalue="Application.Start" />
+        <item itemvalue="JUnit.GymDemoApplicationTests.testGetCondition2" />
+        <item itemvalue="JUnit.GymDemoApplicationTests.testGetCondition" />
+        <item itemvalue="JUnit.GymDemoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64a014db-a78a-47d9-bb74-030f559b975c" name="Changes" comment="" />
+      <created>1656162419577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656162419577</updated>
+      <workItem from="1656162423220" duration="967000" />
+      <workItem from="1656163437361" duration="987000" />
+      <workItem from="1656203968121" duration="23399000" />
+      <workItem from="1656290676828" duration="3203000" />
+      <workItem from="1656293930270" duration="6830000" />
+      <workItem from="1656316457814" duration="7000" />
+      <workItem from="1656318448541" duration="16094000" />
+      <workItem from="1656379294530" duration="11940000" />
+      <workItem from="1656490091920" duration="24000" />
+      <workItem from="1656490423092" duration="174000" />
+      <workItem from="1656575900495" duration="293000" />
+      <workItem from="1656576636660" duration="922000" />
+      <workItem from="1656645216748" duration="781000" />
+      <workItem from="1656808929137" duration="2843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
